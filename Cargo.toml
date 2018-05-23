@@ -1,0 +1,7 @@
+[package]
+name = "dejong"
+version = "0.1.0"
+authors = ["Travis McNeill <tmcneill@horizoninvestments.com>"]
+
+[dependencies]
+image = "*"
